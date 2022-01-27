@@ -1,0 +1,12 @@
+{
+  "name": "get-dataurl",
+  "version": "0.1.0",
+  "description": "get dataurl",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": ["dataurl"],
+  "author": "airmanx",
+  "license": "ISC"
+}
